@@ -6,6 +6,10 @@
     --dark: #1D2A4D;
 }
 
+
+.hero-header{
+    max-height: 1000px;
+}
 .btn {
     font-weight: 700;
     transition: .5s;
