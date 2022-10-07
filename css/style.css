@@ -6,6 +6,10 @@
     --dark: #1D2A4D;
 }
 
+body{
+    overflow-x: hidden;
+}
+
 .medicalAss__bg{
     background-image: url('../img/MedicalAssistance/medical\ assistance\ in\ the\ page.jpg');
     background-repeat: no-repeat;
