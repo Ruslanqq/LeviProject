@@ -7,6 +7,16 @@
   display: none;
 }
 
+.slider__text{
+  border-radius: 50px;
+  background-color: gray;
+  padding: 30px 50px;
+  position: absolute;
+  margin-top:400px;
+  color: white;
+  opacity: 0.5;
+}
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;

@@ -10,6 +10,34 @@ body{
     overflow-x: hidden;
 }
 
+.header-logo {
+    display: flex;
+    background: rgba(182, 182, 182, 0.56);
+    backdrop-filter: blur(20px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 0px 50px 50px 0px;
+    width: 593px;
+    height: 109px;
+    position: absolute;
+    z-index: 11111;
+    top: 530px;
+  }
+  .logo-text{
+    margin-top: -20px;
+    margin-left: 100px;
+  }
+  .header-logo span {
+    font-family: "Georgia";
+    font-style: normal;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+    color: #ffffff;
+  }
+
 .medicalAss__bg{
     background-image: url('../img/MedicalAssistance/medical\ assistance\ in\ the\ page.jpg');
     background-repeat: no-repeat;
