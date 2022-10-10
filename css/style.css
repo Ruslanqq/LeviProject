@@ -53,6 +53,11 @@ body{
     width: 46px;
     height: 46px;
 }
+.button_lang:hover{
+    background: 
+    #1d2a4d;
+    color: white;
+}
 
 .btn-square,
 .btn-sm-square,
