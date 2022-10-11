@@ -12,12 +12,12 @@ body{
 
 .header-logo {
     display: flex;
-    background: rgba(182, 182, 182, 0.56);
+    background: rgba(182, 182, 182, 0);
     backdrop-filter: blur(20px);
     /* Note: backdrop-filter has minimal browser support */
     border-radius: 0px 50px 50px 0px;
     width: 593px;
-    height: 109px;
+    height: 149px;
     position: absolute;
     z-index: 11111;
     top: 530px;
