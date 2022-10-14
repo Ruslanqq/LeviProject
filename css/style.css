@@ -10,6 +10,18 @@ body{
     overflow-x: hidden;
 }
 
+p{
+    color: #1D2A4D;
+}
+
+li{
+    color: #1D2A4D;
+}
+
+.footer_white{
+    color: white;
+}
+
 .header-logo {
     display: flex;
     background: rgba(182, 182, 182, 0);
