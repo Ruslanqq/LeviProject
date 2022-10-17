@@ -27,6 +27,12 @@ li{
     color: white !important;
 }
 
+.logo_footer-middle{
+    max-width: 380px;
+    max-height: 400px;
+    margin-top: -100px;
+    margin-left: -85px;
+}
 .header-logo {
     display: flex;
     background: rgba(182, 182, 182, 0);
